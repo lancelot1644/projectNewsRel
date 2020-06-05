@@ -4,5 +4,5 @@
 		a.数据库配置config.php
 		b.数据库连接操作connect.php
 
-	step2.首先实现发布文章的功能，使用到 bootstrap 建立一个简单的页面
+	step2.首先实现发布文章的功能，建立一个简单的h5页面
 		
